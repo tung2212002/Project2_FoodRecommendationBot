@@ -2,4 +2,4 @@
 **/venv/
 
 # Ignore secret file
-/main_rasa/secret.txt
+main_rasa/secret.txt
