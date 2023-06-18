@@ -1,2 +1,5 @@
 # Ignore virtual environment directories
 **/venv/
+
+# Ignore secret file
+/main_rasa/secret.txt
